@@ -1,4 +1,4 @@
-# Contact-list
+# Phonebook
 This was an old project from a course in the second semester of the first year of my degree
 
 # 📒 Phonebook in C
