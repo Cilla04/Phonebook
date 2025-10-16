@@ -4,7 +4,7 @@ This was an old project from a course in the second semester of the first year o
 # 📒 Phonebook in C
 
 ## 🧾 Project Description
-This university project implements a **contact list** in the C programming language. The system allows users to manage personal contacts with features such as search, edit, delete, and save to binary files. It is designed to be modular, readable, and easily extendable.
+This university project implements a **Phonebook** in the C programming language. The system allows users to manage personal contacts with features such as search, edit, delete, and save to binary files. It is designed to be modular, readable, and easily extendable.
 
 ## 🧩 System Architecture
 The project is divided into functional modules:
