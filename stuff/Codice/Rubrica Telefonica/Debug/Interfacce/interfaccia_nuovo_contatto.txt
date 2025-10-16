@@ -1,0 +1,10 @@
+
+     -----NUOVO CONTATTO-----   	INSERIRE '0' AL NOME O AL COGNOME O '000000' AL NUMERO DI TELEFONO   
+ |                              |       PER NON SALVARE IL CONTATTO IN RUBRICA
+ |   NOME:                      |
+ |                              |
+ |   COGNOME:                   |
+ |                              |
+ |   NUMERO DI TELEFONO:        |
+ |                              |
+     ------------------------    

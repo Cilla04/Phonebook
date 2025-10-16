@@ -1,0 +1,11 @@
+
+     -----TIPOLOGIA VISUALIZZAZIONE-----          PREMERE '0' PER TORNARE AL MENU' PRINCIPALE 
+ |                                         |
+ |   1. RUBRICA COMPLETA                   |
+ |                                         |
+ |   2. RUBRICA PREFERITI                  |
+ |                                         |
+ |   3. RUBRICA BLOCCATI                   |
+ |                                         |
+ |   SCELTA:                               |
+     -----------------------------------        

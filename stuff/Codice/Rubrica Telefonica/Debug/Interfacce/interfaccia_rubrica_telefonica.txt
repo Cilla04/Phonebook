@@ -1,0 +1,25 @@
+  
+     -----RUBRICA TELEFONICA-----    
+ |                                  |
+ |   1. INSERIRE NUOVO CONTATTO     |
+ |                                  |
+ |   2. CANCELLARE UN CONTATTO      |
+ |                                  |
+ |   3. RICERCARE UN CONTATTO       |
+ |                                  |
+ |   4. MODIFICARE UN CONTATTO      |
+ |                                  |
+ |   5. ORDINARE RUBRICA            |
+ |                                  |
+ |   6. VISUALIZZARE RUBRICA        |
+ |                                  |
+ |   7. GESTIRE STATI               |
+ |                                  |
+ |   8. IMPORTARE RUBRICA           |
+ |                                  |
+ |   9. ESPORTARE RUBRICA           |
+ |                                  |
+ |   0. ESCI                        |
+ |                                  |
+ |   SCELTA:                        |
+     ----------------------------    

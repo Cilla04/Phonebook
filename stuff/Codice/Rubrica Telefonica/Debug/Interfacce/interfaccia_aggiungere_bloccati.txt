@@ -1,0 +1,9 @@
+
+     -----AGGIUNGERE BLOCCATI-----   	    PREMERE '0' PER TORNARE AL MENU' PRINCIPALE
+ |                                   |
+ |   1. CERCA PER NOME               |
+ |                                   |
+ |   2. CERCA PER COGNOME            |
+ |                                   |
+ |   SCELTA:                         |
+     -----------------------------    

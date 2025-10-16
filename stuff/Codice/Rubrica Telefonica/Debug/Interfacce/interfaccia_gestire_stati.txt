@@ -1,0 +1,13 @@
+
+     -----TIPOLOGIA VISUALIZZAZIONE-----    	  PREMERE '0' PER TORNARE AL MENU' PRINCIPALE
+ |                                         |
+ |   1. AGGIUNGI PREFERITI                 |
+ |                                         |
+ |   2. RIMUOVI PREFERITI                  |
+ |                                         |
+ |   3. AGGIUNGI BLOCCATI                  |
+ |                                         |
+ |   4. RIMUOVI BLOCCATI                   |    
+ |                                         |     
+ |   SCELTA:                               |
+     -----------------------------------    
