@@ -1,0 +1,2 @@
+# Il Makefile deve avere sempre fine riga LF, anche su Windows
+Makefile text eol=lf
